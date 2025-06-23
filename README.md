@@ -6,8 +6,8 @@ A scalable and interactive live streaming platform built with the MERN stack, fe
 
 
 
- Key Features
- 
+ Key Features:
+
  
  User Authentication
 
@@ -28,7 +28,11 @@ Users can follow their favorite streamers and get notified about new streams.
 Fully hosted on AWS (EC2, S3, Route 53) for scalability and reliability.
 
 
-Tech Stack
+
+
+
+
+Tech Stack:
 Component	Technology
 
 Frontend	React.js, Tailwind CSS
@@ -44,3 +48,5 @@ Streaming	RTMP Server (Node-Media-Server) + OBS
 Real-Time Chat	Socket.IO
 
 Deployment	AWS EC2, S3, Route 53
+
+
