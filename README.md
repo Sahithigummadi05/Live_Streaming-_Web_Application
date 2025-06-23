@@ -9,22 +9,21 @@ A scalable and interactive live streaming platform built with the MERN stack, fe
  Key Features:
 
  
- User Authentication
-
+ User Authentication:
 Secure login and registration using Google OAuth 2.0.
 
- Live Video Streaming
+ Live Video Streaming:
 Streamers broadcast live using OBS and an integrated RTMP server.
 
 
- Real-Time Chat
+ Real-Time Chat:
 Live viewers can send and receive messages instantly via Socket.IO.
 
- Subscribe / Unsubscribe to Channels
+ Subscribe / Unsubscribe to Channels:
 Users can follow their favorite streamers and get notified about new streams.
 
 
- Cloud Deployment
+ Cloud Deployment:
 Fully hosted on AWS (EC2, S3, Route 53) for scalability and reliability.
 
 
@@ -33,6 +32,10 @@ Fully hosted on AWS (EC2, S3, Route 53) for scalability and reliability.
 
 
 Tech Stack:
+
+
+
+
 Component	Technology
 
 Frontend	React.js, Tailwind CSS
