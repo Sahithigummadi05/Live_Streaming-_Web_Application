@@ -1,2 +1,37 @@
-● Developed and deployed a live streaming/chat application on AWS with user registration and authentication using Google OAuth. Features include subscribe/unsubscribe to channels, live video streaming, messaging in live chat, etc
-● Integrated video streaming using an RTMP server and OBS while utilizing Socket.IO for live chat functionality
+Live Streaming & Real-Time Chat Application
+
+A scalable and interactive live streaming platform built with the MERN stack, featuring Google OAuth authentication, RTMP-based video streaming using OBS, and real-time chat via Socket.IO. The application is deployed on AWS and supports dynamic channel subscription features.
+
+ Key Features
+ User Authentication
+
+Secure login and registration using Google OAuth 2.0.
+
+ Live Video Streaming
+
+Streamers broadcast live using OBS and an integrated RTMP server.
+
+ Real-Time Chat
+
+Live viewers can send and receive messages instantly via Socket.IO.
+
+Subscribe/Unsubscribe to Channels
+
+Follow favorite streamers and get notified of new streams.
+
+Cloud Deployment
+
+Fully hosted on AWS (EC2, S3, Route 53) for scalability and reliability.
+
+Tech Stack
+
+Component	Technology
+Frontend	React.js, Tailwind CSS
+Backend	Node.js, Express.js
+Database	MongoDB (Mongoose)
+Auth	Google OAuth 2.0
+Streaming	RTMP Server (Node-Media-Server) + OBS
+Real-Time Chat	Socket.IO
+Deployment	AWS EC2, S3, Route 53
+
+
